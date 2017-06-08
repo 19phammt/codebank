@@ -1,0 +1,16 @@
+{"South_Asia":["Afghanistan", "Bangladesh","Bhutan", "Maldives", "Nepal", "India", "Pakistan", "Sri Lanka"],
+"East Asia":["Taiwan", "Mongolia", "North Korea", "South Korea", "Korea, Republic Of", "Korea", "Japan", "Hong Kong (Sar)", "Hong Kong", "Macao"],
+"Russia And China":["Russia", "China"],
+"Central Asia":["Kazakhstan", "Uzbekistan", "Turkmenistan", "Kyrgyzstan", "Tajikistan"],
+"Southeast Asia":["Vietnam", "Laos", "Lao, People'S Democratic Republic", "Cambodia", "Thailand",
+                     "Myanmar", "West Malaysia","East Malaysia", "Malaysia",
+                     "Indonesia", "Singapore", "Philippines", "East Timor",
+                     "Brunei", "Cocos Islands", "Christmas Island"],
+"West Asia": ["Armenia", "Azerbaijan", "Bahrain", "Cyprus", "Georgia",
+                "Iran", "Iran, Islamic Republic Of", "Iraq", "Israel", "Jordan",
+                "Kuwait", "Lebanon", "Oman", "Palestine", "Qatar", "Saudi Arabia",
+                "Syria", "Turkey", "UAE", "United Arab Emirates", "Yemen"],
+"Europe": ["Poland"],
+"North America":[],
+"South America":[]
+}
